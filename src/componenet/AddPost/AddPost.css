@@ -1,0 +1,19 @@
+.addButton{
+    margin-bottom: 30px !important;
+    padding: 20px !important;
+    width: 100% !important;
+}
+.modalTitle{
+    text-align: center;
+}
+.buttonStyle{
+    display: flex;
+    justify-content: center;
+    margin-top:10px ;
+}
+.fill{
+    display: flex;
+    justify-content: center;
+    margin-top:10px ;
+    color: #c62828;
+}

@@ -1,0 +1,64 @@
+.commentBox{
+    width: 100%;
+    background-color: rgb(220, 220, 220);
+    padding: 20px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+.commentBoxB{
+    margin-bottom: 40px;
+    padding: 10px;
+}
+.commentImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.commentName{
+    vertical-align: 15px;
+    padding: 10px;
+}
+.commentTexBox{
+    width: 96%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 30px;
+}
+.commentLine{
+    display: flex;
+    justify-content: center;
+}
+.commentLine span{
+    width: 60%;
+    height: 10px;
+    color: #000;
+}
+.commentForm{
+    display: flex;
+    flex-direction: column;
+}
+.commentForm input{
+    margin-bottom: 5px;
+    width: 10%;
+    padding: 10px 5px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+.commentForm textarea{
+    width: 98%;
+    padding: 10px 5px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+.commentForm Button {
+    margin-top: 10px;
+    width: 10%;
+}
+.noComment{
+    font-size: 32px;
+    text-align: center;
+}

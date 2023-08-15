@@ -1,0 +1,18 @@
+.input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.inputElement{
+    outline: none;
+    border: 1px solid #e5e5e5;
+    background-color: #fff;
+    padding: 6px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.inValid{
+    border: 1px solid #c62828;
+}
